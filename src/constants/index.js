@@ -1,6 +1,7 @@
 import project1 from '../assets/projects/project-1.jpg';
 import project2 from '../assets/projects/project-2.jpg';
 // import project3 from '../assets/projects/project-3.jpg';
+import profilepic from '../assets/abprofile.jpg';
 import project4 from '../assets/projects/project-4.jpg';
 import tesla from '../assets/projects/tesla.png';
 import portfolio from '../assets/projects/portfolio.png';
@@ -114,7 +115,7 @@ export const PROJECTS = [
   },
   {
     title: 'Portfolio Website',
-    image: portfolio,
+    image: profilepic,
     description:
       'A personal portfolio website showcasing projects, skills, and contact information.',
     technologies: ['HTML', 'CSS', 'React', 'TailwindCSS', 'Framer Motion'],
